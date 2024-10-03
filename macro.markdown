@@ -17,9 +17,19 @@ Download links
  - [KLE to KiCad layout](https://keyboard-tools.xyz)
  - [OnShape](https://onshape.com)
 
+Shopping Links
+ - [JLCPCB](https://jlcpcb.com)
+ - [SendCutSend](https://sendcutsend.com)
+ - [Sea Picro at beekeeb](https://shop.beekeeb.com/product/sea-picro)
+ - [M2 screws and standoffs at keeb.io](https://keeb.io/products/m2-screws-and-standoffs)
+ - [M2 screw assortment on Amazon](https://www.amazon.com/dp/B08FMNNFLN)
+ - [2mm spacers on Amazon](https://www.amazon.com/gp/product/B07L7JVVFJ)
+ - [Rubber feet on Amazon](https://www.amazon.com/dp/B07G8926LH)
+ 
  Reference Information
  - [Sea Picro pinout](https://joshajohnson.com/sea-picro/#pinout)
  - [Gateron product datasheets](https://www.gateron.co/pages/product-datasheet)
+ - [Adafruit's Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering/tools)
 
  Provided Files
  - [vial.json template](vial.json)
