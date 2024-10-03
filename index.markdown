@@ -5,4 +5,4 @@
 layout: home
 title: Home
 ---
-You're probably looking for the [MacroPad resource page](/macro) since there isn't much else here yet.
+You're probably looking for the [MacroPad resource page](/macro.html) since there isn't much else here yet.
