@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: MacroPad resource page
 ---
 This page has links to all the tools and files I talk about in this [YouTube series on building your own custom Macro Pad](https://youtube.com).
 
@@ -24,6 +25,7 @@ Download links
  - [vial.json template](vial.json)
  - [pre-built firmware](macro0_vial.uf2)
 
-Sources - documents I learned from while writing this series
+Sources I used to write this series
+ - [TKL Keyboard Design - Noah Kiser](https://www.youtube.com/watch?v=6Z49bynRqj8)
  - [Adding your keyboard to QMK](https://docs.qmk.fm/porting_your_keyboard_to_qmk)
  - [Porting your keyboard to VIAL](https://get.vial.today/docs/porting-to-via.html)
