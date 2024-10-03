@@ -36,8 +36,23 @@ Shopping Links
 
  Provided Files
  - [vial.json template](vial.json)
+ - [rules.mk file](rules.mk)
  - [pre-built firmware](macro0_vial.uf2)
 
+ Commands to copy and paste in Part 4
+
+     wsl --install
+
+     git clone https://github.com/vial-kb/vial-qmk
+     cd vial-qmk
+     make git-submodule
+
+     qmk new-keyboard
+
+     qmk compile -kb macro0 -km default
+     qmk compile -kb macro0 -km vial
+
+ 
 Sources I used to write this series
  - [TKL Keyboard Design - Noah Kiser](https://www.youtube.com/watch?v=6Z49bynRqj8)
  - [How a keyboard matrix works](https://docs.qmk.fm/how_a_matrix_works)
