@@ -17,9 +17,12 @@ Download links
  - [Keyboard Layout Editor](https://keyboard-layout-editor.com)
  - [KLE to KiCad layout](https://keyboard-tools.xyz)
  - [OnShape](https://onshape.com)
+ - [VIAL web app](https://vial.rocks)
 
 Shopping Links
  - [JLCPCB](https://jlcpcb.com)
+ - [SOD123 diodes at LCSC](https://www.lcsc.com/product-detail/Switching-Diodes_ST-Semtech-1N4148W_C81598.html)
+ - [Reset switch at LCSC](https://www.lcsc.com/product-detail/Switching-Diode_ST-Semtech-1N4148W_C81598.html)
  - [SendCutSend](https://sendcutsend.com)
  - [Sea Picro at beekeeb](https://shop.beekeeb.com/product/sea-picro)
  - [MX hotswap sockets at beekeeb](https://shop.beekeeb.com/product/gateron-mx-hotswap-socket/)
@@ -33,6 +36,7 @@ Shopping Links
  - [Sea Picro pinout](https://joshajohnson.com/sea-picro/#pinout)
  - [Gateron product datasheets](https://www.gateron.co/pages/product-datasheet)
  - [Adafruit's Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering/tools)
+ - [Soldering SMD diodes](https://www.youtube.com/watch?app=desktop&v=Jpj3tilIaik)
 
  Provided Files
  - [vial.json template](vial.json)
@@ -41,16 +45,19 @@ Shopping Links
 
  Commands to copy and paste in Part 4
 
-     wsl --install
+    wsl --install
 
-     git clone https://github.com/vial-kb/vial-qmk
-     cd vial-qmk
-     make git-submodule
+    git clone https://github.com/vial-kb/vial-qmk
+    cd vial-qmk
+    make git-submodule
 
-     qmk new-keyboard
+    qmk new-keyboard
 
-     qmk compile -kb macro0 -km default
-     qmk compile -kb macro0 -km vial
+    qmk compile -kb macro0 -km default
+
+    python3 util/vial_generate_keyboard_uid.py
+
+    qmk compile -kb macro0 -km vial
 
  
 Sources I used to write this series
