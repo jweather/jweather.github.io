@@ -15,7 +15,7 @@ Download links
  
  Web Tools
  - [Keyboard Layout Editor](https://keyboard-layout-editor.com)
- - [KLE to KiCad layout](https://keyboard-tools.xyz)
+ - [keyboard-tools.xyz: KLE to KiCad layout](https://keyboard-tools.xyz)
  - [OnShape](https://onshape.com)
  - [VIAL web app](https://vial.rocks)
 
