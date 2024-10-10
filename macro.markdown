@@ -5,7 +5,7 @@
 layout: home
 title: MacroPad resource page
 ---
-This page has links to all the tools and files I talk about in this [YouTube series on building your own custom Macro Pad](https://youtube.com).
+This page has links to all the tools and files I talk about in this [YouTube series on building your own custom Macro Pad](https://www.youtube.com/playlist?list=PLvpUCOCK8jv3PU4pR0Gunug12xrJHWhxj).
 
 Download links
  - [KiCad](https://kicad.org)
