@@ -22,7 +22,7 @@ Download links
 Shopping Links
  - [JLCPCB](https://jlcpcb.com)
  - [SOD123 diodes at LCSC](https://www.lcsc.com/product-detail/Switching-Diodes_ST-Semtech-1N4148W_C81598.html)
- - [Reset switch at LCSC](https://www.lcsc.com/product-detail/Switching-Diode_ST-Semtech-1N4148W_C81598.html)
+ - [Reset switch at LCSC](https://www.lcsc.com/product-detail/C318884.html)
  - [SendCutSend](https://sendcutsend.com)
  - [Sea Picro at beekeeb](https://shop.beekeeb.com/product/sea-picro)
  - [MX hotswap sockets at beekeeb](https://shop.beekeeb.com/product/gateron-mx-hotswap-socket/)
